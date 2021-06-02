@@ -1,6 +1,0 @@
-Paradigms:
- - functional programming
- - sorting 
- - looping / recursive function
-
- 
